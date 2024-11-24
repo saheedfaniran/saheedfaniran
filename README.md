@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saheed Faniran</h1>
-<h3 align="center">A Devops engineer with an inquisitive mindset, passionate about technology, continuous learning and committed to bolstering cloud infrastructure and CI/CD processes within forward-thinking organizations</h3>
+<h3 align="center">A Microsoft 365 engineer and an aspiring Devops engineer with an inquisitive mindset, passionate about technology, continuous learning and committed to bolstering cloud infrastructure and CI/CD processes within forward-thinking organizations</h3>
 
 <img align="right" alt="Devops" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saheedfaniran&label=Profile%20views&color=0e75b6&style=flat" alt="saheedfaniran" /> </p>
-
-- 🔭 I’m currently working on [a DevOps pipeline to deploy a Python-MySQL Query Analyzer into AWS](https://github.com/saheedfaniran/Python-MySQL-Query-Analyzer)
-
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
 
 - 👯 I’m looking to collaborate on **Devops related projects utilizing Docker, Kubernetes, Ansible and Terraform**
 
