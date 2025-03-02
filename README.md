@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saheedfaniran?tab=repositories](https://github.com/saheedfaniran?tab=repositories)
 
-- 💬 Ask me about **CICD Pipelines, Azure infrastructures and Microsoft 365 technologies**
+- 💬 Ask me about **CICD Pipelines, AWS and Azure infrastructures and Microsoft 365 technologies**
 
 - 📫 How to reach me **saheedfaniran@gmail.com**
 
